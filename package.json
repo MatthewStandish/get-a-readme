@@ -1,0 +1,26 @@
+{
+  "name": "get-a-readme",
+  "version": "1.0.0",
+  "description": "This is a GitHub repository for a README file generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewStandish/get-a-readme.git"
+  },
+  "keywords": [
+    "README",
+    "Generator"
+  ],
+  "author": "MatthewStandish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthewStandish/get-a-readme/issues"
+  },
+  "homepage": "https://github.com/MatthewStandish/get-a-readme#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
