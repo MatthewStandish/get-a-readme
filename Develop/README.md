@@ -16,27 +16,26 @@ This Github repository contains a README generator that simplifies the process o
 - [Questions](#questions)
 
 ## Installation
-
-To install please run
-
+To install please run 
 ```
 undefined
 ```
 
 ## Usage
 
+
+
 ## License
 
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license. [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Contributing
 
 To contribute, you may fork this repository.
 
 ## Tests
-
 To test please run
-
 ```
 
 ```
