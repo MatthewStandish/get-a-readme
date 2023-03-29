@@ -25,11 +25,19 @@ npm i inquirer@8.2.4
 
 ## Usage
 
+[Click here to see a demonstration!](https://drive.google.com/file/d/1dhblz5WIA3oMMOp02DUlrAuSFsbnkH_4/view?usp=sharing)
+
 1. Clone this repository to your local machine.
 2. Navigate to the develop folder.
 3. Run 'node index.js' in terminal.
 4. Answer prompts given in terminal.
 5. Once complete, find the README in the develop folder.
+
+---
+
+![terminal](/images/terminal-screenshot.png)
+
+---
 
 ## License
 
