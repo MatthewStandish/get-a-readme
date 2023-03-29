@@ -20,10 +20,16 @@ This Github repository contains a README generator that simplifies the process o
 To install please run
 
 ```
-undefined
+npm i inquirer@8.2.4
 ```
 
 ## Usage
+
+1. Clone this repository to your local machine.
+2. Navigate to the develop folder.
+3. Run 'node index.js' in terminal.
+4. Answer prompts given in terminal.
+5. Once complete, find the README in the develop folder.
 
 ## License
 
@@ -31,14 +37,14 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Contributing
 
-To contribute, you may fork this repository.
+You may fork this repository.
 
 ## Tests
 
 To test please run
 
 ```
-
+N/A
 ```
 
 ## Questions
